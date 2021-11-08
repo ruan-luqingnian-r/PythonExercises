@@ -8,6 +8,9 @@ print(a)
 a = 1.0
 print(id(a))
 print(a)
+b = 1
+print(id(b))
+print(b)
 print("===========")
 print(1.1e2)
 print(type(1))
